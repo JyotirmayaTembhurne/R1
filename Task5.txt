@@ -1,0 +1,33 @@
+                                          << CYBER CRIME & CONFUSION MATRIX >>
+
+Cyber attack is becoming an immenent threat as technological world develops and operates every single minute. One can say that the threat increases in parallel to the growth of the technology.
+Numerous cyber atatck detection and classification methods have been introduced with different levels of success and accuracies.
+Not only to block potential threats but also as a countermeasure to preserve data integrity from cyber attacks.
+As the classification of attacks is becoming troublesome, thats where confusion matrix comes in. 'Parallel support vector machine' is based on the concept of confusion matrix on a basic level.
+Now the question arises why confusion matrix?
+So, here are some key points for consideration :
+ ~> It shows how any classification model is confused when it makes predictions.
+~> Confusion matrix not only gives you insight into the errors being made by you classifier but also types of errors that are being made.
+~> This breakdown helps you to overcome the limitation of using classification accuracy alone.
+~> Every column of the confusion matrix represents the instances of that predicted class.
+~> It provides an insight to not only the errors which are made by classifier but also errors that are being made (in general).
+
+ To summarize, it is convenient in terms of classfier accuracy and accuracy in general, it is efficient in error recognition and has its dynamic benefits.
+ Basically, cyber attack detection is a classification problem (mostly), in which we classify the normal pattern (positive) from the abnormal pattern (negitive)/in this case cyber attacks of the system.
+We know for a fact that irrelevant features may severely affect the accuracy of a model. So, the confusion matrix is a very powerful and effective way of detecting, repelling and countering cyber attacks.
+Cyber crime may include crimes from network hacking to identity theft. So we have different customizations for the confusion matrix in different crime scenerios, but in general the concept remains same;
+i.e, to recognize the abnormalities/positive negitive or negitive positive/attack and allow the rest.
+
+~> True Positive (TP): The amount of attack detected when it is actually attack.
+~> True Negative (TN): The amount of normal detected when it is actually normal.
+~> False Positive (FP): The amount of attack detected when it is actually normal (False alarm).
+~> False Negative (FN): The amount of normal detected when it is actually attack.
+
+Confusion matrices used in cyber attack detection and countermeasure models, rows correspond to predicted categories, while columns correspond to actual categories ; This is the standard format mostly
+mostly used in such models.Confusion matrix contains information actual and predicted classifications done by a classifier. The performance of cyber attack detection system is commonly evaluated using 
+the data in a matrix.
+Heres a pictorial representation of the confusion matrix :
+
+      Predicted                   Normal                          Threat
+       Normal            True negative(TN)        False Positive(FP)	
+       Attack              False negative(FN)        True Positive(TP)
