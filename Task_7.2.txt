@@ -1,0 +1,48 @@
+
+JavaScript​ : The backbone of Web Development.
+Published on June 24, 2021
+
+Over the past 20 years or so since when JavaScript was released, it has become the most 
+popular programming language for web development today. 
+You can understand the importance of JavaScript as a web development 
+language from the fact that as per the recent reports, JavaScript is 
+currently being used by more than 94 percent of all the websites 
+and the number of people switching to JavaScript are constantly increasing with time. 
+JavaScript is a client-side programming language which helps web developer to do Web 
+application development and make dynamic and interactive web pages by implementing 
+custom client-side scripts. Developers can also use cross-platform runtime engines like 
+Node.js to write server-side code in JavaScript. Developers can also create web pages 
+which works well across various browsers, platforms, and devices by combining JavaScript, 
+HTML5, and CSS3. 
+As a matter of fact many popular frameworks are based off of JavaScript. 
+By using these frameworks, you can reduce the amount of time and efforts 
+required for developing JS based sites and apps which is another reason 
+why JavaScript is becoming a popular choice for programmers 
+and an asset for many product based companies.
+
+Now lets talk about the advantages and benefits of using JavaScript as your main webdev language :
+
+(1) JavaScript is cross platform compatible meaning, that it is supported by multiple web browsers like 
+Google Chrome, Internet Explorer, Firefox, Safari, and Opera etc. 
+Hence the users can access the web applications on any web browser of their choice easily. 
+They can just enable the JavaScript language if it is disabled and can enjoy all the functionality of the site.
+
+(2) JavaScript provides lots of utility libraries and frameworks. 
+JavaScript Frameworks and libraries make it easy for web developers to build large, 
+JavaScript-based web applications ( or web pages ). 
+For Example ,  AngularJS, ReactJS, etc. JavaScript also has lots of libraries which you 
+can use as per your requirements. 
+For example, you can do GUI development using widgets like Bootstrap, jQuery or AngularJS.
+
+(3) JavaScript promotes and supports responsive web development. 
+Nowadays most developers do responsive web design to make a website accessible 
+and work well across multiple browsers and devices like smartphones and desktops. 
+Responsive web design enables the developers to optimize the site for both computers 
+and mobile devices using the same code. 
+The developers have to combine the CSS3, HTML5, and JavaScript to make the web pages responsive. 
+The developers can use JavaScript to optimize web pages for mobile devices.
+
+COLCLUSION - From this it is clear that there are several reasons why JavaScript 
+has become the most popular programming language in the world among various type of developers. 
+JavaScript is an efficient programming language that helps developers in building large scale web 
+applications easily and quickly.
